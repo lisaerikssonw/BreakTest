@@ -10,6 +10,8 @@ public class Breaktest {
          }
          number = number + 1;
       }
+      
+      System.out.println("Final number:" + number);
    
    }
 }
